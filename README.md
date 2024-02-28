@@ -1,6 +1,6 @@
-#   Building a Chat Conversation using LangChain and OpenAI 
+# OpenAI  Assistant API
 
-
+This Python script demonstrates a simple chat interface with an OpenAI assistant. It allows users to interact with the assistant.
 
 ## Prerequisites
 
